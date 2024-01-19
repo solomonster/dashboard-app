@@ -1,2 +1,1 @@
-# dashboard-app
 Financial Dashboard
